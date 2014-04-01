@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zbarlib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/qrscannerapp/src/main/libs/zbar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
